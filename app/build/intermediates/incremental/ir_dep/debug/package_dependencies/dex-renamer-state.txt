@@ -1,0 +1,4 @@
+#Thu Nov 07 12:38:47 WAT 2019
+base.0=C\:\\Users\\SmartLyf\\AndroidStudioProjects\\quizApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\SmartLyf\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\SmartLyf\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\SmartLyf\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\SmartLyf\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\dc392bacffe770f762402d1acaaf7740\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e1f2ec2828c0c51b77b918de57f7732b\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\18b074fa16276a1ad034c9381e86d1c0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\de600232af9e1c019cc18761a8a1a7b6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\adc3872b7568eaf968a8096eee633f38\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\17f5e13e85942fe5bdafd501d07e188e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\bc14f8710fbb703000837bb8ae3b1c10\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\e76e6157d2da096d1e44ae7e2374e6a1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\81795e57cc207e857ca98c32bf612d0e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\47cea9e56b272406fac1e00e05c84301\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\aff44396644862d5219a2dee364ee380\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\949a2b433f4613b1a4fcd2138f9e294b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\e0e2d587e345d5c33cc6f6c195f459e5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\15f8a77be411f8af4415382f1a1f81b2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\bc13c75a281e62109aaf4b91ee5d07c5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\643d3b507fb5217b7853f74fbce69ded\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\e5a68bb75df9a00baf707d215bf02eef\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\e1ac65215d863cab87136b7b300abfa3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\578fc8bc5a49bccc5f82779b61e122b9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\578d79240d2edc098c931e13859eda9d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\e41553fe05b877e66a6e8f8376bffad3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\e0079a102974a2630cb0b5b324b041ea\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\de6a55f964743bc2511d16c7ce83f1a6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\3e8a454d586efedf19c7a84d2d53571f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\27a5ef03739d20ff7069cfa0976b1a80\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\47e6923f37a066d156423907d03fe9fd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\fcfbf6aea1db5a1f45d62c630364b171\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\SmartLyf\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\SmartLyf\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\SmartLyf\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\SmartLyf\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from C:\Users\SmartLyf\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SmartLyf\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\SmartLyf\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SmartLyf\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\SmartLyf\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\SmartLyf\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SmartLyf\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\SmartLyf\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\SmartLyf\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\SmartLyf\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e1f2ec2828c0c51b77b918de57f7732b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e1f2ec2828c0c51b77b918de57f7732b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\643d3b507fb5217b7853f74fbce69ded\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\643d3b507fb5217b7853f74fbce69ded\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\e5a68bb75df9a00baf707d215bf02eef\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\e5a68bb75df9a00baf707d215bf02eef\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\643d3b507fb5217b7853f74fbce69ded\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\SmartLyf\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\SmartLyf\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\SmartLyf\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\SmartLyf\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\SmartLyf\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\SmartLyf\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.smartlyf.quizapp.MainActivity
+ADDED from C:\Users\SmartLyf\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\SmartLyf\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\SmartLyf\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\SmartLyf\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\SmartLyf\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\SmartLyf\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\SmartLyf\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\SmartLyf\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\SmartLyf\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\SmartLyf\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\dc392bacffe770f762402d1acaaf7740\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\dc392bacffe770f762402d1acaaf7740\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e1f2ec2828c0c51b77b918de57f7732b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e1f2ec2828c0c51b77b918de57f7732b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\18b074fa16276a1ad034c9381e86d1c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\18b074fa16276a1ad034c9381e86d1c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\de600232af9e1c019cc18761a8a1a7b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\de600232af9e1c019cc18761a8a1a7b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\adc3872b7568eaf968a8096eee633f38\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\adc3872b7568eaf968a8096eee633f38\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\17f5e13e85942fe5bdafd501d07e188e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\17f5e13e85942fe5bdafd501d07e188e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\bc14f8710fbb703000837bb8ae3b1c10\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\bc14f8710fbb703000837bb8ae3b1c10\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\e76e6157d2da096d1e44ae7e2374e6a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\e76e6157d2da096d1e44ae7e2374e6a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\81795e57cc207e857ca98c32bf612d0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\81795e57cc207e857ca98c32bf612d0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\47cea9e56b272406fac1e00e05c84301\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\47cea9e56b272406fac1e00e05c84301\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\aff44396644862d5219a2dee364ee380\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\aff44396644862d5219a2dee364ee380\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\949a2b433f4613b1a4fcd2138f9e294b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\949a2b433f4613b1a4fcd2138f9e294b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\e0e2d587e345d5c33cc6f6c195f459e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\e0e2d587e345d5c33cc6f6c195f459e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\15f8a77be411f8af4415382f1a1f81b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\15f8a77be411f8af4415382f1a1f81b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\bc13c75a281e62109aaf4b91ee5d07c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\bc13c75a281e62109aaf4b91ee5d07c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\643d3b507fb5217b7853f74fbce69ded\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\643d3b507fb5217b7853f74fbce69ded\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\e5a68bb75df9a00baf707d215bf02eef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\e5a68bb75df9a00baf707d215bf02eef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\e1ac65215d863cab87136b7b300abfa3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\e1ac65215d863cab87136b7b300abfa3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\578fc8bc5a49bccc5f82779b61e122b9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\578fc8bc5a49bccc5f82779b61e122b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\578d79240d2edc098c931e13859eda9d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\578d79240d2edc098c931e13859eda9d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\e41553fe05b877e66a6e8f8376bffad3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\e41553fe05b877e66a6e8f8376bffad3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\e0079a102974a2630cb0b5b324b041ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\e0079a102974a2630cb0b5b324b041ea\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\de6a55f964743bc2511d16c7ce83f1a6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\de6a55f964743bc2511d16c7ce83f1a6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\3e8a454d586efedf19c7a84d2d53571f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\3e8a454d586efedf19c7a84d2d53571f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\27a5ef03739d20ff7069cfa0976b1a80\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\27a5ef03739d20ff7069cfa0976b1a80\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\47e6923f37a066d156423907d03fe9fd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\47e6923f37a066d156423907d03fe9fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\fcfbf6aea1db5a1f45d62c630364b171\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\SmartLyf\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\fcfbf6aea1db5a1f45d62c630364b171\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\SmartLyf\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\SmartLyf\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\SmartLyf\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SmartLyf\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SmartLyf\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\SmartLyf\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SmartLyf\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SmartLyf\AndroidStudioProjects\quizApp\app\src\main\AndroidManifest.xml
