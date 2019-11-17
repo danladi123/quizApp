@@ -9,20 +9,21 @@
         xmlns:tools="http://schemas.android.com/tools"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:orientation="vertical">
-
+        android:orientation="vertical"
+        android:focusable="true"
+        android:focusableInTouchMode="true">
 
         <TextView
             android:id="@+id/tvTitle"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="15dp"
-            android:text="Test Your Knowledge on Science"
+            android:text="Test Your Knowledge on General Subjects"
             android:textSize="18sp"
             android:textStyle="bold" />
 
         <TextView
-            android:id="@+id/textView3"
+            android:id="@+id/tvQ1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="20dp"
@@ -32,28 +33,29 @@
             android:textStyle="bold" />
 
         <RadioGroup
-            android:id="@+id/rgroup1"
+            android:id="@+id/rg1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="31dp"
-            android:layout_marginLeft="31dp">
+            android:layout_marginLeft="31dp"
+            android:layout_marginBottom="5dp">
 
             <RadioButton
-                android:id="@+id/radioButton"
+                android:id="@+id/rbq1a"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:text="Goat" />
 
             <RadioButton
-                android:id="@+id/radioButton2"
+                android:id="@+id/rbq1b"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:text="Dog" />
 
             <RadioButton
-                android:id="@+id/radioButton3"
+                android:id="@+id/rbq1c"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
@@ -61,7 +63,7 @@
         </RadioGroup>
 
         <TextView
-            android:id="@+id/textView4"
+            android:id="@+id/tvQ2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="20dp"
@@ -69,26 +71,28 @@
             android:textStyle="bold" />
 
         <RadioGroup
+            android:id="@+id/rg2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="31dp">
+            android:layout_marginLeft="31dp"
+            android:layout_marginBottom="5dp">
 
             <RadioButton
-                android:id="@+id/radioButton4"
+                android:id="@+id/rbq2a"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:text="Erect" />
 
             <RadioButton
-                android:id="@+id/radioButton5"
+                android:id="@+id/rbq2b"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:text="Inverted" />
 
             <RadioButton
-                android:id="@+id/radioButton6"
+                android:id="@+id/rbq2c"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
@@ -96,7 +100,7 @@
         </RadioGroup>
 
         <TextView
-            android:id="@+id/textView5"
+            android:id="@+id/tvQ3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="20dp"
@@ -105,19 +109,21 @@
             android:textStyle="bold" />
 
         <RadioGroup
+            android:id="@+id/rg3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="31dp">
+            android:layout_marginLeft="31dp"
+            android:layout_marginBottom="5dp">
 
             <RadioButton
-                android:id="@+id/radioButton11"
+                android:id="@+id/rbq3a"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:text="Metre" />
 
             <RadioButton
-                android:id="@+id/radioButton12"
+                android:id="@+id/rbq3b"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
 
@@ -125,7 +131,7 @@
                 android:text="CM" />
 
             <RadioButton
-                android:id="@+id/radioButton13"
+                android:id="@+id/rbq3c"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
@@ -133,7 +139,7 @@
         </RadioGroup>
 
         <TextView
-            android:id="@+id/textView6"
+            android:id="@+id/tvQ4"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="20dp"
@@ -141,26 +147,28 @@
             android:textStyle="bold" />
 
         <RadioGroup
+            android:id="@+id/rg4"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="31dp">
+            android:layout_marginLeft="31dp"
+            android:layout_marginBottom="5dp">
 
             <RadioButton
-                android:id="@+id/radioButton14"
+                android:id="@+id/rbq4a"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:text="Magnesium" />
 
             <RadioButton
-                android:id="@+id/radioButton15"
+                android:id="@+id/rbq4b"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:text="Sodium" />
 
             <RadioButton
-                android:id="@+id/radioButton16"
+                android:id="@+id/rbq4c"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
@@ -168,7 +176,7 @@
         </RadioGroup>
 
         <TextView
-            android:id="@+id/textView7"
+            android:id="@+id/tvQ5"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="20dp"
@@ -176,13 +184,56 @@
             android:textStyle="bold" />
 
         <EditText
-            android:id="@+id/textView8"
+            android:id="@+id/etAnswer"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="31dp"
+            android:layout_marginBottom="5dp"
             android:hint="Type your Answer Here "
             android:textStyle="bold" />
 
+        <TextView
+            android:id="@+id/tvQ6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:text="Q6. Which of the below is true About Udacity Courses?"
+            android:textStyle="bold" />
+
+        <CheckBox
+            android:id="@+id/ch"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="31dp"
+            android:text="Free Courses" />
+
+        <CheckBox
+            android:id="@+id/ch2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="31dp"
+            android:text="Paid Courses" />
+
+        <CheckBox
+            android:id="@+id/ch3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="31dp"
+            android:text="Paid Courses Only" />
+
+        <Button
+            android:id="@+id/buttonCheck"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp"
+            android:background="@color/colorPrimaryDark"
+            android:onClick="checkAnswers"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:layout_marginBottom="10dp"
+            android:text="Submit Answers"
+            android:textColor="@android:color/white" />
 
     </LinearLayout>
 
